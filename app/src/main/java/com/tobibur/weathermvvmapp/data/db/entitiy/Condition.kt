@@ -1,4 +1,4 @@
-package com.tobibur.weathermvvmapp.data.response
+package com.tobibur.weathermvvmapp.data.db.entitiy
 
 data class Condition(
     val code: Int,

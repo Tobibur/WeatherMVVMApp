@@ -1,12 +1,11 @@
 package com.tobibur.weathermvvmapp.ui.weather.current
 
-import androidx.lifecycle.ViewModelProviders
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-
+import androidx.fragment.app.Fragment
+import androidx.lifecycle.ViewModelProviders
 import com.tobibur.weathermvvmapp.R
 import com.tobibur.weathermvvmapp.data.ApixuWeatherApiService
 import kotlinx.android.synthetic.main.current_weather_fragment.*

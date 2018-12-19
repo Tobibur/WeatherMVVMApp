@@ -1,4 +1,4 @@
-package com.tobibur.weathermvvmapp.data.response
+package com.tobibur.weathermvvmapp.data.db.entitiy
 
 import com.google.gson.annotations.SerializedName
 
